@@ -1,0 +1,8 @@
+*.exe
+*.obj
+*.o
+*.class
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
