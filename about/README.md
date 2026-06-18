@@ -6,6 +6,7 @@
 
 - `index.html`：关于我们官网首页
 - `style.css`：页面样式
+- `images/team-photo.jpg`：团队会议照片，建议使用横图，页面会自动裁切适配
 
 ## 访问地址
 
